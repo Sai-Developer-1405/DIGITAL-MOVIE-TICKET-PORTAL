@@ -61,7 +61,7 @@ This project uses an **H2 in-memory database** for fast setup, and users can eas
 
 ### **Frontend**
 
-* AngularJS
+* ReactJS
 * HTML
 * CSS
 * Bootstrap
@@ -252,4 +252,5 @@ Contributions, improvements, and feature requests are welcome.
 This project is licensed under the MIT License.
 
 ---
+
 
