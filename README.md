@@ -2,7 +2,7 @@
 
 ---
 
-A beginner-friendly yet professional **Java Full-Stack Project** designed using **Spring Boot** and **AngularJS**, the *Digital Movie Ticket Portal* enables users to seamlessly browse movies, check seat availability, and book tickets online. This system delivers a smooth ticket-booking experience with real-time validations, a responsive UI, and pre-configured sample data for instant execution.
+A beginner-friendly yet professional **Java Full-Stack Project** designed using **Spring Boot** and **ReactJS**, the *Digital Movie Ticket Portal* enables users to seamlessly browse movies, check seat availability, and book tickets online. This system delivers a smooth ticket-booking experience with real-time validations, a responsive UI, and pre-configured sample data for instant execution.
 
 ---
 
@@ -42,7 +42,7 @@ This project uses an **H2 in-memory database** for fast setup, and users can eas
 
 * Clean user interface built with:
 
-  * AngularJS
+  * ReactJS
   * HTML & CSS
   * Bootstrap
 * Responsive and beginner-friendly UI design.
@@ -228,7 +228,7 @@ cd digital-movie-ticket-portal
 ### **3️⃣ Frontend Setup**
 
 * Open the frontend folder.
-* Launch using a local server or environment compatible with AngularJS.
+* Launch using a local server or environment compatible with ReactJS.
 
 ---
 
@@ -236,7 +236,7 @@ cd digital-movie-ticket-portal
 
 * Java full-stack beginners
 * Academic and mini-projects
-* Students learning Spring Boot + AngularJS
+* Students learning Spring Boot + ReactJS
 * REST API and UI validation practice
 
 ---
@@ -252,5 +252,6 @@ Contributions, improvements, and feature requests are welcome.
 This project is licensed under the MIT License.
 
 ---
+
 
 
